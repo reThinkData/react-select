@@ -104,7 +104,9 @@
   "files": [
     "dist",
     "lib",
-    "src"
+    "src",
+    "less",
+    "scss"
   ],
   "keywords": [
     "combobox",
